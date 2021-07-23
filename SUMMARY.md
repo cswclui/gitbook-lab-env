@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Overview](README.md)
-* [VSCode](vscode.md)
+* [The VSCode Environment](vscode.md)
 

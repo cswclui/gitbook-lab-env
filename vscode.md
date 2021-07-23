@@ -1,30 +1,36 @@
-# VSCode
+# The VSCode Environment
 
-## VSCode Environment
+The welcome screen is shown when the app is launched.
 
-The welcome screen.
-
-![Welcome screen in VScode](.gitbook/assets/image%20%282%29.png)
+![Welcome screen in VScode](.gitbook/assets/image%20%283%29.png)
 
 Close the Welcome tab to view the basic commands in vscode.
 
 ![](.gitbook/assets/image.png)
 
-## Color Theme
-
 Press Ctrl+shift+P to input commands. Type "theme". Select the Dark+ color theme. 
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%285%29.png)
 
 
 
-![](.gitbook/assets/image%20%288%29.png)
+![](.gitbook/assets/image%20%289%29.png)
 
-## Command execution
+You may execute Linux commands in the `TERMINAL` tab.
 
-You may execute linux commands in the terminal tab.
+![](.gitbook/assets/image%20%281%29.png)
 
-![Terminal](.gitbook/assets/image%20%286%29.png)
+
+
+&gt; test 
+
+> test
+
+{% hint style="danger" %}
+
+{% endhint %}
+
+![Terminal](.gitbook/assets/image%20%287%29.png)
 
 
 
