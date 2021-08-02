@@ -4,7 +4,7 @@ The welcome screen is shown when the app is launched.
 
 ![Welcome screen in VScode](.gitbook/assets/image%20%283%29.png)
 
-Close the Welcome tab to view the basic commands in vscode.
+Close the Welcome tab to view the basic commands in VSCode.
 
 ![](.gitbook/assets/image.png)
 
@@ -34,9 +34,13 @@ To show the menu bar on top:
 
 Allow the app to read/write from the clipboard.
 
-In chrome browser, type in url input box `chrome://settings/content/clipboard.`
+In chrome browser, type in url input box `chrome://settings/content/clipboard`
 
 Click **Add a site**- and input `[*.]vl.polyu.edu.hk` .
+
+![](.gitbook/assets/image%20%2812%29.png)
+
+
 
 
 
