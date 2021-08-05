@@ -1,6 +1,4 @@
-# Overview
-
-## Major features
+# Major features
 
 * Starting Lab Sessions
   * Provides an isolated Linux-based environment for completing hands-on lab exercises
@@ -16,17 +14,8 @@
   * Terminate the running apps
 * File Browser
   * Provide 2GB of persistent volume per user for storing data \(e.g. the workspace folder\)
-  * Changes made/Files stored in other folders are not persistent and will be lost after the session is expired/terminated.
+* Changes made/Files stored in other folders are not persistent and will be lost after the session is expired/terminated.
 
-## Lab Environment
+## 
 
-* Unbuntu Image
-  * Installed software: Code-Server \(VSCode like environment for software development in remote servers\), MySQL 8 Server, OmniDB Apache, git, python
-  * Run as the root user 
-* Alpine Linux Image
-  * Installed software: Code-Server, Docker, git, python
-  * Run as the "rootless" user
-* Oracle Database Server Image
-  * Installed software: Code-Server, Oracle, OmniDB
-* Upcoming: Jupyter Notebook, RStudio Server, ...
-
+* 

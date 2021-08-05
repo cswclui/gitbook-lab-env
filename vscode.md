@@ -1,4 +1,6 @@
-# The VSCode Environment
+# The Code-Server environment
+
+Code-Server provides a VSCode-like Environment for software development in remote server.
 
 The welcome screen is shown when the app is launched.
 
@@ -32,7 +34,9 @@ To show the menu bar on top:
 
 ![](.gitbook/assets/image%20%2811%29.png)
 
-Allow the app to read/write from the clipboard.
+
+
+## Allowing the VSCode to read/write from the clipboard
 
 In chrome browser, type in the URL input box `chrome://settings/content/clipboard`
 
