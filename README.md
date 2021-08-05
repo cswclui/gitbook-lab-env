@@ -1,25 +1,21 @@
-# Overview
+# Major Features
 
-## Getting Super Powers
+Major features
 
-Becoming a super hero is a fairly straight forward process:
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
+* Lab Images
+  * Isolated Linux-based environment 
+* Control Panel
 
 
+
+Lab Environment
+
+* Unbuntu Image
+  * Installed software: Code-Server \(VSCode like environment for software development in remote servers\), MySQL 8 Server, OmniDB Apache, git, python
+  * Run as the root user 
+* Alpine Linux Image
+  * Installed software: Code-Server, Docker, git, python
+  * Run as the "rootless" user
+* Oracle Database Server Image
+  * Installed software: Code-Server, Oracle, OmniDB
 
