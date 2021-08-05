@@ -34,7 +34,7 @@ To show the menu bar on top:
 
 Allow the app to read/write from the clipboard.
 
-In chrome browser, type in url input box `chrome://settings/content/clipboard`
+In chrome browser, type in the URL input box `chrome://settings/content/clipboard`
 
 Click **Add a site**- and input `[*.]vl.polyu.edu.hk` .
 
