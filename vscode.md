@@ -60,3 +60,23 @@ Click **Add a site**- and input `[*.]vl.polyu.edu.hk` .
 
 
 
+
+
+To clear the terminal, input 
+
+```text
+clear
+```
+
+You can also use the shortcut Ctrl+L.
+
+
+
+Creating terminal
+
+Remove terminal
+
+Split terminal
+
+
+
