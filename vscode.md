@@ -68,15 +68,17 @@ To clear the terminal, input
 clear
 ```
 
-You can also use the shortcut Ctrl+L.
+You can also use the shortcut Ctrl+L to clear the terminal
 
 
 
-Creating terminal
+Try to perform the following tasks
 
-Remove terminal
+* Creating terminal
+* Remove terminal
+* Split terminal
 
-Split terminal
 
 
+## \*\*\* The End \*\*\*
 
