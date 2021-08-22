@@ -14,7 +14,12 @@
 * Control Panel
   * Show the running apps
   * Terminate the running apps
-* File Browser
-  * Provide 2GB of persistent volume per user for storing data \(e.g. the workspace folder\)
-* Changes made/Files stored in other folders are not persistent and will be lost after the session is expired/terminated. 
+* The lab environment provides 2GB of persistent volume per user for storing data \(e.g. the workspace folder\)
+
+## Notes
+
+* Only selected folders \(e.g. ~/workspace\)  will be retained a persistent storage
+  * Changes made/Files stored in other folders are not persistent and will be lost after the session is expired/terminated.
+* When the lab session is terminated/expired, all running processes will be terminated
+  * You may need to restart when you start the lab session again.
 
