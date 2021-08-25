@@ -4,25 +4,25 @@
 
 The home portal will be shown after you have logged in.
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2819%29.png)
 
 On the right of the navigation bar at the top,  you will find the options to access the control panel, file browser and logout.
 
-![](.gitbook/assets/image%20%2820%29.png)
+![](.gitbook/assets/image%20%2825%29.png)
 
 **Control Panel:** You may view your running apps \(You can run at most two apps at the same time\). You may click the `Terminate Session` after you have completed the lab session.
 
-![](.gitbook/assets/image%20%2818%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 
 **File Browser:** You may view and download/upload files to your personal folder for the different apps.
 
-![](.gitbook/assets/image%20%2821%29.png)
+![](.gitbook/assets/image%20%2826%29.png)
 
 ## Lab Environment
 
 Select an image to launch the lab environment. Each duration of each lab session lasts is at most 4 hours. 
 
-![](.gitbook/assets/image%20%2819%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 On the right of the top navigation bar ,  
 
@@ -34,7 +34,7 @@ On the right of the top navigation bar ,
 
 For the rightmost menu in the navigation bar, you may access the control panel and file browser. 
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 You may click the `Terminate Session` after you have completed the lab session.
 

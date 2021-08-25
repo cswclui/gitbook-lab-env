@@ -1,4 +1,4 @@
-# Welcome to Polyu Virtual Lab!
+# Overview
 
 ## Major Features
 
@@ -18,8 +18,8 @@
 
 ## Notes
 
-* Only selected folders \(e.g. ~/workspace\)  will be retained a persistent storage
-  * Changes made/Files stored in other folders are not persistent and will be lost after the session is expired/terminated.
+* Only selected folders \(e.g. ~/workspace\)  are persistant and retained after the lab session is terminated.
+  * Changes made/files stored in other folders are not persistent and will be lost after the session is expired/terminated.
 * When the lab session is terminated/expired, all running processes will be terminated
   * You may need to restart when you start the lab session again.
 

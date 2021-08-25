@@ -1,6 +1,6 @@
 # Lab Environment
 
-* Unbuntu Image
+* MySQL/Ubuntu Image
   * Installed software: Code-Server \(VSCode like environment for software development in remote servers\), MySQL 8 Server, OmniDB Apache, git, python
   * Run as the root user 
 * Alpine Linux Image

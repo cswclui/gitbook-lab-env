@@ -1,40 +1,38 @@
-# The Code-Server environment
+# The VSCode environment
 
-Code-Server provides a VSCode-like Environment for software development in remote server.
+Code-Server provides a Visual Studio Code like Environment for software development in the remote server.
 
-The welcome screen is shown when the app is launched.
+The Welcome screen is shown when the program is launched.
 
-![Welcome screen in VScode](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%2816%29.png)
 
-Close the Welcome tab to view the basic commands in VSCode.
+Close the Welcome tab to view the basic commands in VSCode. 
 
-![](.gitbook/assets/image.png)
+Some basic VSCode commands will be shown.
 
-Press Ctrl+shift+P to input commands. Type "theme". Select the Dark+ color theme. 
+![](.gitbook/assets/image%20%2814%29.png)
 
-![](.gitbook/assets/image%20%285%29.png)
+## Running VSCode Commands
 
+For instance, to view/ change the `Settings.json` in VScode, press`Ctrl+shift+P` to input commands and type `settings.json`. 
 
+![](.gitbook/assets/image%20%2818%29.png)
 
-![](.gitbook/assets/image%20%289%29.png)
+To change the color theme, you may press`Ctrl+shift+P` to input commands. Type "color".
 
-You may execute Linux commands in the `TERMINAL` tab.
+![](.gitbook/assets/image%20%2817%29.png)
 
-![](.gitbook/assets/image%20%281%29.png)
+## Terminals
+
+You may execute Linux commands in the`TERMINAL` tab. You can toggle the terminal by pressing ``Ctrl+```.
+
+![](.gitbook/assets/image%20%2820%29.png)
 
 Try: 
 
 * Start a new terminal
-* Remove a terminal
 * Split terminal
-
-To show the menu bar on top:
-
-![](.gitbook/assets/image%20%2810%29.png)
-
-![](.gitbook/assets/image%20%2811%29.png)
-
-
+* Remove a terminal
 
 ## Allowing the VSCode to read/write from the clipboard
 
