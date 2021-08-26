@@ -24,41 +24,11 @@ To change the color theme, you may press`Ctrl+shift+P` to input commands. Type "
 
 ## Terminals
 
-You may execute Linux commands in the`TERMINAL` tab. You can toggle the terminal by pressing ``Ctrl+```.
+You may execute Linux commands in the`TERMINAL` tab. 
+
+You can toggle the terminal by pressing ``Ctrl+```.
 
 ![](.gitbook/assets/image%20%2820%29.png)
-
-Try: 
-
-* Start a new terminal
-* Split terminal
-* Remove a terminal
-
-## Allowing the VSCode to read/write from the clipboard
-
-In chrome browser, type in the URL input box `chrome://settings/content/clipboard`
-
-Click **Add a site**- and input `[*.]vl.polyu.edu.hk` .
-
-![](.gitbook/assets/image%20%2812%29.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 To clear the terminal, input 
 
@@ -68,15 +38,37 @@ clear
 
 You can also use the shortcut Ctrl+L to clear the terminal
 
+Try the following tasks:
 
-
-Try to perform the following tasks
-
-* Creating terminal
-* Remove terminal
+* Start a new terminal
 * Split terminal
+* Remove a terminal
+
+## Allowing the VSCode to read/write from the clipboard
+
+When you copy and paste the first time into VSCode, the browser may ask you whether to allow text/images to be copied from the clipboard to the app. Select **Allow**.
+
+![](.gitbook/assets/image%20%2827%29.png)
 
 
 
-## \*\*\* The End \*\*\*
+To allow clipboard access from the app, type in the URL input box in the Chrome browser
+
+```text
+chrome://settings/content/clipboard
+```
+
+Click **Add a site**- and input 
+
+```text
+[*.]vl.polyu.edu.hk
+```
+
+ 
+
+![](.gitbook/assets/image%20%2812%29.png)
+
+
+
+
 
